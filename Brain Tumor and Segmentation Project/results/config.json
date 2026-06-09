@@ -1,0 +1,31 @@
+{
+  "data_raw_dir": "data/raw",
+  "data_processed_dir": "data/processed",
+  "models_dir": "models",
+  "results_dir": "results",
+  "checkpoint_dir": "checkpoints",
+  "logs_dir": "logs",
+  "test_size": 0.15,
+  "val_size": 0.15,
+  "random_state": 42,
+  "clf_target_size": [
+    256,
+    256
+  ],
+  "clf_batch_size": 16,
+  "clf_epochs": 50,
+  "clf_learning_rate": 0.001,
+  "seg_target_size": [
+    256,
+    256
+  ],
+  "seg_batch_size": 16,
+  "seg_epochs": 150,
+  "seg_learning_rate": 0.0001,
+  "early_stop_patience": 30,
+  "reduce_lr_patience": 10,
+  "reduce_lr_factor": 0.5,
+  "reduce_lr_min_lr": 1e-07,
+  "viz_num_test_samples": 10,
+  "viz_num_val_samples": 5
+}

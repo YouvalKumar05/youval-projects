@@ -1,0 +1,71 @@
+{
+    "timestamp": "2026-02-10T12:25:33.652840",
+    "total_samples": 1179,
+    "model_name": "BrainTumorClassifier_v10",
+    "overall": {
+        "accuracy": 0.6972010178117048,
+        "precision_macro": 0.6661442370205257,
+        "precision_weighted": 0.6839875800881545,
+        "recall_macro": 0.634967840099592,
+        "recall_weighted": 0.6972010178117048,
+        "f1_macro": 0.6399895307751589,
+        "f1_weighted": 0.6817417436550212
+    },
+    "per_class": {
+        "Healthy (0)": {
+            "precision": 0.7274774774774775,
+            "recall": 0.8488830486202366,
+            "f1_score": 0.7835051546391752,
+            "specificity": 0.42105263157894735,
+            "support": 761,
+            "true_positives": 646,
+            "false_positives": 242,
+            "false_negatives": 115,
+            "true_negatives": 176
+        },
+        "Tumor (1)": {
+            "precision": 0.6048109965635738,
+            "recall": 0.42105263157894735,
+            "f1_score": 0.4964739069111424,
+            "specificity": 0.8488830486202366,
+            "support": 418,
+            "true_positives": 176,
+            "false_positives": 115,
+            "false_negatives": 242,
+            "true_negatives": 646
+        }
+    },
+    "roc_auc": 0.7892347641292935,
+    "roc_auc_95_ci": {
+        "lower": 0.7633432419701849,
+        "upper": 0.8159838091706835
+    },
+    "average_precision": 0.636958213036227,
+    "confusion_matrix": {
+        "matrix": [
+            [
+                646,
+                115
+            ],
+            [
+                242,
+                176
+            ]
+        ],
+        "normalized": [
+            [
+                0.8488830486202366,
+                0.15111695137976347
+            ],
+            [
+                0.5789473684210527,
+                0.42105263157894735
+            ]
+        ]
+    },
+    "class_distribution": {
+        "Healthy (0)": 761,
+        "Tumor (1)": 418,
+        "balance_ratio": 0.5492772667542707
+    }
+}

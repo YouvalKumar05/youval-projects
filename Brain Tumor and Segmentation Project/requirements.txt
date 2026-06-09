@@ -1,0 +1,26 @@
+# requirements.txt
+# Python dependencies for brain tumor segmentation project
+
+# Core data science and ML libraries
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+scipy>=1.9.0
+
+# Deep learning (TensorFlow)
+tensorflow>=2.11.0
+keras>=2.11.0
+
+# Image processing
+opencv-python>=4.7.0
+scikit-image>=0.20.0
+Pillow>=9.4.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.13.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
