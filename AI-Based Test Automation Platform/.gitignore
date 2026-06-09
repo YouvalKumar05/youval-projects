@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs and OS files
+.idea/
+.vscode/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Environment variables and secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+tokens/
+
+# Build and distribution outputs
+dist/
+build/
+target/
+out/
+.next/
+.nuxt/
+
+# Logs and temporary files
+*.log
+logs/
+tmp/
+temp/
+backend/artifacts/groq_raw_*.txt
+backend/artifacts/tmp_script_*.py
+
+# Test run artifacts (Option 1: Ignore local run outputs)
+# Retaining folders but ignoring run media
+backend/videos/
+backend/screenshots/
+backend/reports/
+# If representative files are added, we can track them specifically:
+# !backend/reports/sample_report.pdf
+# !backend/screenshots/dashboard_preview.png

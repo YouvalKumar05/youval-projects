@@ -1,0 +1,104 @@
+{
+  "title": "Search and Checkout on Amazon",
+  "kind": "scenario",
+  "actions": [
+    {
+      "testCaseId": "TC-001",
+      "description": "Go to Amazon website",
+      "reason": "To start the search and checkout process",
+      "expectedOutcome": "Amazon homepage is displayed",
+      "severity": "high",
+      "type": "goto",
+      "url": "https://www.amazon.in/ref=nav_logo"
+    },
+    {
+      "testCaseId": "TC-002",
+      "description": "Wait for search box selector",
+      "reason": "To ensure search box is available for input",
+      "expectedOutcome": "Search box is visible",
+      "severity": "high",
+      "type": "waitforselector",
+      "selectors": [
+        "#twotabsearchtextbox",
+        "[name='field-keywords']",
+        "[id='search']"
+      ]
+    },
+    {
+      "testCaseId": "TC-003",
+      "description": "Enter search term 'apple'",
+      "reason": "To search for products related to 'apple'",
+      "expectedOutcome": "Search results for 'apple' are displayed",
+      "severity": "high",
+      "type": "fill",
+      "selectors": [
+        "#twotabsearchtextbox",
+        "[name='field-keywords']",
+        "[id='search']"
+      ],
+      "value": "apple"
+    },
+    {
+      "testCaseId": "TC-004",
+      "description": "Press enter to submit search",
+      "reason": "To get search results",
+      "expectedOutcome": "Search results are displayed",
+      "severity": "high",
+      "type": "press",
+      "key": "Enter"
+    },
+    {
+      "testCaseId": "TC-005",
+      "description": "Wait for cart link selector",
+      "reason": "To ensure cart link is available for navigation",
+      "expectedOutcome": "Cart link is visible",
+      "severity": "high",
+      "type": "waitforselector",
+      "selectors": [
+        "#nav-cart",
+        "[id='nav-cart']",
+        "[name='cart']"
+      ]
+    },
+    {
+      "testCaseId": "TC-006",
+      "description": "Click on cart link",
+      "reason": "To navigate to cart webpage",
+      "expectedOutcome": "Cart webpage is displayed",
+      "severity": "high",
+      "type": "click",
+      "selectors": [
+        "#nav-cart",
+        "[id='nav-cart']",
+        "[name='cart']"
+      ]
+    },
+    {
+      "testCaseId": "TC-007",
+      "description": "Wait for 2 seconds",
+      "reason": "To ensure cart webpage is fully loaded",
+      "expectedOutcome": "Cart webpage is fully loaded",
+      "severity": "low",
+      "type": "waitfortimeout",
+      "timeout": 2000
+    },
+    {
+      "testCaseId": "TC-008",
+      "description": "Expect URL contains 'cart'",
+      "reason": "To verify cart webpage is displayed",
+      "expectedOutcome": "URL contains 'cart'",
+      "severity": "high",
+      "type": "expecturlcontains",
+      "value": "cart"
+    },
+    {
+      "testCaseId": "TC-009",
+      "description": "Expect text 'Your Cart' is visible",
+      "reason": "To verify cart webpage is displayed",
+      "expectedOutcome": "Text 'Your Cart' is visible",
+      "severity": "high",
+      "type": "expecttextvisible",
+      "value": "Your Cart"
+    }
+  ]
+}

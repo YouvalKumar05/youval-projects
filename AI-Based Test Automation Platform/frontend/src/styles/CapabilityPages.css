@@ -1,0 +1,201 @@
+/* Capability page wrapper – keeps content below fixed navbar */
+.cap-page {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background: var(--color-background);
+  color: var(--color-text);
+}
+
+/* Header */
+.cap-header {
+  text-align: center;
+  padding: 24px 16px 16px;
+}
+
+.cap-header h1 {
+  font-size: var(--font-size-3xl);
+  font-weight: var(--font-weight-bold);
+  margin-bottom: 6px;
+}
+
+.cap-header p {
+  max-width: 720px;
+  margin: 0 auto;
+  color: var(--color-text-secondary);
+}
+
+/* Capability matrix section */
+.cap-matrix {
+  padding: 8px 16px 16px;
+}
+
+.cap-matrix-grid {
+  max-width: var(--container-xl);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 18px;
+}
+
+/* Glassmorphism capability card */
+.cap-card {
+  position: relative;
+  border-radius: 18px;
+  border: 1px solid var(--color-card-border);
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: var(--shadow-lg);
+  padding: 14px 14px 16px;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  transition: transform var(--duration-normal) var(--ease-standard),
+    box-shadow var(--duration-normal) var(--ease-standard),
+    border-color var(--duration-normal) var(--ease-standard);
+}
+
+[data-color-scheme='dark'] .cap-card {
+  background: rgba(15, 23, 42, 0.96);
+}
+
+.cap-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    circle at top left,
+    rgba(var(--color-teal-500-rgb), 0.12),
+    transparent
+  );
+  pointer-events: none;
+}
+
+.cap-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-xl);
+  border-color: var(--color-primary);
+}
+
+.cap-card-icon-wrap {
+  width: 40px;
+  height: 40px;
+  border-radius: 14px;
+  overflow: hidden;
+  margin-bottom: 8px;
+  background: radial-gradient(
+    circle at top left,
+    rgba(var(--color-teal-500-rgb), 0.25),
+    rgba(15, 23, 42, 0.9)
+  );
+}
+
+.cap-card-icon-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cap-card h2 {
+  position: relative;
+  margin-bottom: 4px;
+  font-size: var(--font-size-xl);
+  z-index: 1;
+}
+
+.cap-card p {
+  position: relative;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  margin-bottom: 10px;
+  z-index: 1;
+}
+
+/* Go to Module button */
+.cap-card-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+  text-decoration: none;
+  background: var(--color-primary);
+  color: var(--color-btn-primary-text);
+  box-shadow: var(--shadow-md);
+  z-index: 1;
+}
+
+/* Testing types section */
+.cap-testing {
+  padding: 16px 16px 8px;
+}
+
+.cap-section-header {
+  max-width: var(--container-xl);
+  margin: 0 auto 12px;
+}
+
+.cap-section-header h2 {
+  font-size: var(--font-size-2xl);
+  font-weight: var(--font-weight-bold);
+  margin-bottom: 4px;
+}
+
+.cap-section-header p {
+  color: var(--color-text-secondary);
+}
+
+/* Testing types chips */
+.cap-testing-grid {
+  max-width: var(--container-xl);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 10px;
+}
+
+.cap-testing-chip {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 999px;
+  border: 1px solid var(--color-card-border);
+  background: rgba(255, 255, 255, 0.9);
+  padding: 6px 10px;
+  box-shadow: var(--shadow-sm);
+}
+
+[data-color-scheme='dark'] .cap-testing-chip {
+  background: rgba(15, 23, 42, 0.96);
+}
+
+.cap-testing-icon {
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  overflow: hidden;
+  background: radial-gradient(
+    circle at top left,
+    rgba(var(--color-teal-500-rgb), 0.25),
+    rgba(15, 23, 42, 0.9)
+  );
+}
+
+.cap-testing-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cap-testing-label {
+  font-size: var(--font-size-sm);
+  font-weight: var(--font-weight-medium);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .cap-header {
+    padding-top: 20px;
+  }
+}

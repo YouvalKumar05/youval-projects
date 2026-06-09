@@ -1,0 +1,365 @@
+/* Wrapper – ensures content starts below fixed navbar */
+.about-page {
+  
+  padding-bottom: 40px;
+  background: var(--color-background);
+  color: var(--color-text);
+  font-size: var(--font-size-base);
+}
+
+/* =========================
+   Hero / Vision block
+   ========================= */
+
+.about-hero {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  padding: 84px 16px 52px;
+}
+
+.about-hero-layer {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+      circle at top left,
+      rgba(59, 130, 246, 0.55),
+      transparent
+    ),
+    rgba(15, 23, 42, 0.92);
+}
+
+.about-hero-inner {
+  position: relative;
+  max-width: 960px;
+  margin: 0 auto;
+  color: #ffffff;
+}
+
+.about-hero-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 12px;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  font-size: var(--font-size-md); /* +1 from sm */
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: 12px;
+  background: rgba(15, 23, 42, 0.7);
+}
+
+/* Our Vision – explicitly white and +8px approx */
+.about-hero-inner h1 {
+  font-size: calc(var(--font-size-4xl) + 8px); /* base 30px + 8px = 38px */
+  font-weight: var(--font-weight-bold);
+  margin-bottom: 12px;
+  color: #ffffff;
+}
+
+.about-hero-inner p {
+  font-size: var(--font-size-2xl); /* was xl, now +1 step */
+  max-width: 760px;
+  margin-bottom: 8px;
+}
+
+/* =========================
+   Shared section header
+   ========================= */
+
+.about-section-header {
+  text-align: left;
+  max-width: 960px;
+  margin: 0 auto 20px;
+  padding: 0 16px;
+}
+
+.about-section-header h2 {
+  font-size: var(--font-size-4xl); /* already large, keep */
+  font-weight: var(--font-weight-bold);
+  margin-bottom: 6px;
+}
+
+.about-section-header p {
+  font-size: var(--font-size-xl); /* was lg */
+  color: var(--color-text-secondary);
+}
+
+/* =========================
+   Who This Is For
+   ========================= */
+
+.about-who {
+  padding: 28px 0 16px;
+}
+
+.about-who-grid {
+  max-width: var(--container-xl);
+  margin: 0 auto;
+  padding: 0 16px 10px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.about-who-card {
+  border-radius: 18px;
+  border: 1px solid var(--color-card-border);
+  background: rgba(255, 255, 255, 0.94);
+  box-shadow: var(--shadow-md);
+  padding: 16px 16px 18px;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  transition: transform var(--duration-normal) var(--ease-standard),
+    box-shadow var(--duration-normal) var(--ease-standard),
+    border-color var(--duration-normal) var(--ease-standard);
+}
+
+[data-color-scheme='dark'] .about-who-card {
+  background: rgba(15, 23, 42, 0.98);
+}
+
+.about-who-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--color-primary);
+}
+
+.about-who-icon-wrap {
+  width: 46px;
+  height: 46px;
+  border-radius: 14px;
+  overflow: hidden;
+  margin-bottom: 10px;
+  background: radial-gradient(
+    circle at top left,
+    rgba(var(--color-teal-500-rgb), 0.3),
+    rgba(15, 23, 42, 0.9)
+  );
+}
+
+.about-who-icon-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.about-who-card h3 {
+  margin-bottom: 6px;
+  font-size: var(--font-size-2xl); /* was xl */
+}
+
+.about-who-card p {
+  font-size: var(--font-size-lg);  /* was md */
+  color: var(--color-text-secondary);
+}
+
+/* =========================
+   Architecture Overview
+   ========================= */
+
+.about-architecture {
+  padding: 28px 0 14px;
+}
+
+.about-arch-diagram {
+  max-width: 880px;
+  margin: 0 auto 10px;
+  padding: 0 16px 18px;
+  border-radius: 20px;
+  border: 1px solid var(--color-card-border);
+  background: linear-gradient(
+    135deg,
+    rgba(15, 23, 42, 0.98),
+    rgba(37, 99, 235, 0.9)
+  );
+  box-shadow: var(--shadow-xl);
+}
+
+.about-arch-layer {
+  display: grid;
+  grid-template-columns: 0.9fr 2fr;
+  gap: 12px;
+  align-items: baseline;
+  padding: 12px 12px;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.45);
+}
+
+.about-arch-layer:last-child {
+  border-bottom: none;
+}
+
+.about-arch-label {
+  font-size: var(--font-size-lg);  /* was md */
+  font-weight: var(--font-weight-semibold);
+  color: #e5f2ff;
+}
+
+.about-arch-desc {
+  font-size: var(--font-size-lg);  /* was md */
+  color: rgba(226, 232, 240, 0.92);
+}
+
+/* =========================
+   Roadmap timeline
+   ========================= */
+
+.about-roadmap {
+  padding: 28px 0 18px;
+}
+
+.about-roadmap-timeline {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 0 16px 10px;
+  position: relative;
+}
+
+.about-roadmap-timeline::before {
+  content: '';
+  position: absolute;
+  left: 28px;
+  top: 4px;
+  bottom: 4px;
+  width: 2px;
+  background: linear-gradient(
+    to bottom,
+    rgba(148, 163, 184, 0.3),
+    rgba(148, 163, 184, 0.1)
+  );
+}
+
+.about-roadmap-card {
+  position: relative;
+  display: flex;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+
+.about-roadmap-dot {
+  position: relative;
+  z-index: 1;
+  flex: 0 0 20px;
+  height: 20px;
+  border-radius: 999px;
+  border: 3px solid var(--color-primary);
+  background: var(--color-background);
+  margin-left: 18px;
+  margin-top: 8px;
+}
+
+.about-roadmap-body {
+  flex: 1;
+  border-radius: 16px;
+  border: 1px solid var(--color-card-border);
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: var(--shadow-md);
+  padding: 12px 14px 14px;
+}
+
+[data-color-scheme='dark'] .about-roadmap-body {
+  background: rgba(15, 23, 42, 0.98);
+}
+
+.about-roadmap-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 6px;
+}
+
+.about-roadmap-version {
+  font-size: var(--font-size-md);  /* was sm */
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-primary);
+}
+
+.about-roadmap-time {
+  font-size: var(--font-size-md);  /* was sm */
+  color: var(--color-text-secondary);
+}
+
+.about-roadmap-body h3 {
+  font-size: var(--font-size-xl);  /* was lg */
+  margin-bottom: 4px;
+}
+
+.about-roadmap-body p {
+  font-size: var(--font-size-lg);  /* was md */
+  color: var(--color-text-secondary);
+}
+
+/* =========================
+   Documentation CTA
+   ========================= */
+
+.about-docs {
+  padding: 24px 16px 10px;
+}
+
+.about-docs-inner {
+  max-width: 880px;
+  margin: 0 auto;
+  border-radius: 20px;
+  border: 1px solid var(--color-card-border);
+  background: linear-gradient(
+    120deg,
+    rgba(37, 99, 235, 0.08),
+    rgba(45, 212, 191, 0.08)
+  );
+  box-shadow: var(--shadow-lg);
+  padding: 18px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.about-docs-inner h2 {
+  font-size: var(--font-size-4xl); /* was 3xl */
+  margin-bottom: 6px;
+}
+
+.about-docs-inner p {
+  font-size: var(--font-size-lg);  /* was md */
+  color: var(--color-text-secondary);
+}
+
+.about-docs-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 9px 20px;
+  font-size: var(--font-size-lg);  /* was md */
+  font-weight: var(--font-weight-medium);
+  text-decoration: none;
+  background: var(--color-primary);
+  color: var(--color-btn-primary-text);
+  box-shadow: var(--shadow-md);
+}
+
+/* =========================
+   Responsive
+   ========================= */
+
+@media (max-width: 768px) {
+  .about-arch-layer {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .about-roadmap-timeline::before {
+    left: 20px;
+  }
+
+  .about-roadmap-dot {
+    margin-left: 10px;
+  }
+
+  .about-docs-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

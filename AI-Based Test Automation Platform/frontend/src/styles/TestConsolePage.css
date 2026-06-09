@@ -1,0 +1,209 @@
+.test-console-page {
+  padding-top: 8px;
+  padding-bottom: 40px;
+  background: var(--color-surface);
+  color: var(--color-text);
+}
+
+/* Header */
+
+.page-header-block {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 24px 16px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+}
+
+.page-header-center h1 {
+  font-size: var(--font-size-4xl);
+  font-weight: var(--font-weight-bold);
+}
+
+.page-header-center p {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-secondary);
+  max-width: 720px;
+}
+
+.page-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border-radius: 999px;
+  border: 1px solid var(--color-card-border);
+  padding: 6px 14px;
+  font-size: calc(var(--font-size-sm) + 4px);
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  background: var(--color-surface);
+  color: var(--color-text-secondary);
+}
+
+.page-pill img {
+  width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  object-fit: cover;
+}
+
+/* Layout */
+
+.console-layout {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 16px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1.2fr);
+  gap: 18px;
+}
+
+@media (max-width: 1024px) {
+  .console-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+.console-panel {
+  border-radius: 20px;
+  border: 1px solid var(--color-card-border);
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: var(--shadow-lg);
+  padding: 16px 16px 12px;
+  backdrop-filter: blur(14px);
+}
+
+[data-color-scheme='dark'] .console-panel {
+  background: rgba(15, 23, 42, 0.98);
+}
+
+/* Headings */
+
+.panel-header h2 {
+  font-size: var(--font-size-2xl);
+  margin-bottom: 4px;
+}
+
+.panel-header p {
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+}
+
+/* Fields */
+
+.console-section {
+  margin-top: 12px;
+}
+
+.field-label {
+  display: block;
+  font-size: calc(var(--font-size-base) + 2px);
+  font-weight: var(--font-weight-semibold);
+  margin-bottom: 6px;
+  color: var(--color-text);
+}
+
+.field-hint {
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+  margin-top: 4px;
+}
+
+.form-select {
+  width: 100%;
+  padding: 8px 12px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+}
+
+.console-textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--color-border);
+  background: var(--color-background);
+  font-family: var(--font-family-mono);
+  font-size: var(--font-size-base);
+  color: var(--color-text);
+  resize: vertical;
+}
+
+.console-grid-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin-top: 12px;
+}
+
+@media (max-width: 768px) {
+  .console-grid-2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Actions */
+
+.console-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+/* Preview card */
+
+.console-preview-card {
+  margin-top: 10px;
+  border-radius: 16px;
+  border: 1px solid var(--color-card-border-inner);
+  background: var(--color-background);
+  padding: 12px 14px;
+}
+
+.preview-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: var(--font-size-base);
+  padding-block: 4px;
+  border-bottom: 1px solid var(--color-card-border-inner);
+}
+
+.preview-row:last-child {
+  border-bottom: none;
+}
+
+.preview-label {
+  font-weight: var(--font-weight-medium);
+}
+
+.preview-value {
+  color: var(--color-text-secondary);
+}
+
+.preview-badge {
+  border-radius: 999px;
+  padding: 4px 10px;
+  font-size: var(--font-size-base);
+}
+
+.preview-badge--success {
+  background: rgba(var(--color-teal-500-rgb), 0.12);
+  color: var(--color-success);
+}
+
+.preview-log h3 {
+  font-size: var(--font-size-xl);
+  margin: 10px 0 4px;
+}
+
+.preview-log ul {
+  padding-left: 18px;
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+}

@@ -1,0 +1,998 @@
+{
+  "reports": [
+    {
+      "runId": "run_20251226173024_9b0ef9",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226173024_9b0ef9.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226173024_9b0ef9.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20251226173024_9b0ef9.png",
+      "createdAt": "2025-12-26T17:30:29.940766"
+    },
+    {
+      "runId": "run_20251226175514_079033",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226175514_079033.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226175514_079033.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20251226175514_079033.png",
+      "createdAt": "2025-12-26T17:55:20.749288"
+    },
+    {
+      "runId": "run_20251226180441_e63c00",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226180441_e63c00.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226180441_e63c00.pdf",
+      "screenshot": null,
+      "createdAt": "2025-12-26T18:04:56.620149"
+    },
+    {
+      "runId": "run_20251226180510_f5f9d8",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226180510_f5f9d8.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226180510_f5f9d8.pdf",
+      "screenshot": null,
+      "createdAt": "2025-12-26T18:05:23.354351"
+    },
+    {
+      "runId": "run_20251226181454_9526d8",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226181454_9526d8.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251226181454_9526d8.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20251226181454_9526d8.png",
+      "createdAt": "2025-12-26T18:14:59.884250"
+    },
+    {
+      "runId": "run_20251227190501_5ed77d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251227190501_5ed77d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251227190501_5ed77d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20251227190501_5ed77d.png",
+      "createdAt": "2025-12-27T19:05:18.952437"
+    },
+    {
+      "runId": "run_20251227190708_2e34d8",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251227190708_2e34d8.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251227190708_2e34d8.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20251227190708_2e34d8.png",
+      "createdAt": "2025-12-27T19:07:25.461110"
+    },
+    {
+      "runId": "run_20251227192127_cabcea",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251227192127_cabcea.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251227192127_cabcea.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20251227192127_cabcea.png",
+      "createdAt": "2025-12-27T19:21:46.315581"
+    },
+    {
+      "runId": "run_20251227192244_faf2e5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251227192244_faf2e5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20251227192244_faf2e5.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20251227192244_faf2e5.png",
+      "createdAt": "2025-12-27T19:23:06.610474"
+    },
+    {
+      "runId": "run_20260112180022_e7b12b",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112180022_e7b12b.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112180022_e7b12b.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-12T18:00:37.085033"
+    },
+    {
+      "runId": "run_20260112181137_5801e9",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112181137_5801e9.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112181137_5801e9.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260112181137_5801e9.png",
+      "createdAt": "2026-01-12T18:11:39.129593"
+    },
+    {
+      "runId": "run_20260112181159_1b9be8",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112181159_1b9be8.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112181159_1b9be8.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260112181159_1b9be8.png",
+      "createdAt": "2026-01-12T18:12:02.782464"
+    },
+    {
+      "runId": "run_20260112181529_bb24d6",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112181529_bb24d6.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112181529_bb24d6.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260112181529_bb24d6.png",
+      "createdAt": "2026-01-12T18:15:39.802445"
+    },
+    {
+      "runId": "run_20260112181850_94ca4d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112181850_94ca4d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112181850_94ca4d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260112181850_94ca4d.png",
+      "createdAt": "2026-01-12T18:18:52.617470"
+    },
+    {
+      "runId": "run_20260112183010_83d8b2",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183010_83d8b2.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183010_83d8b2.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-12T18:30:38.543153"
+    },
+    {
+      "runId": "run_20260112183253_9b063e",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183253_9b063e.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183253_9b063e.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-12T18:33:17.051952"
+    },
+    {
+      "runId": "run_20260112183331_48ab54",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183331_48ab54.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183331_48ab54.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260112183331_48ab54.png",
+      "createdAt": "2026-01-12T18:33:59.193772"
+    },
+    {
+      "runId": "run_20260112183507_e7a6e9",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183507_e7a6e9.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183507_e7a6e9.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-12T18:35:13.012287"
+    },
+    {
+      "runId": "run_20260112183555_211f46",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183555_211f46.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183555_211f46.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-12T18:36:33.049606"
+    },
+    {
+      "runId": "run_20260112183845_d68e63",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183845_d68e63.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112183845_d68e63.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260112183845_d68e63.png",
+      "createdAt": "2026-01-12T18:39:12.381663"
+    },
+    {
+      "runId": "run_20260112184255_66e054",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112184255_66e054.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112184255_66e054.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260112184255_66e054.png",
+      "createdAt": "2026-01-12T18:43:00.561253"
+    },
+    {
+      "runId": "run_20260112184710_06239a",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112184710_06239a.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260112184710_06239a.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260112184710_06239a.png",
+      "createdAt": "2026-01-12T18:47:13.047559"
+    },
+    {
+      "runId": "run_20260120185145_90d236",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120185145_90d236.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120185145_90d236.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120185145_90d236.png",
+      "createdAt": "2026-01-20T18:51:47.630188"
+    },
+    {
+      "runId": "run_20260120190406_be4d31",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190406_be4d31.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190406_be4d31.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190406_be4d31.png",
+      "createdAt": "2026-01-20T19:04:09.395796"
+    },
+    {
+      "runId": "run_20260120190448_cb6033",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190448_cb6033.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190448_cb6033.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190448_cb6033.png",
+      "createdAt": "2026-01-20T19:04:50.326871"
+    },
+    {
+      "runId": "run_20260120190451_951a59",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190451_951a59.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190451_951a59.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190451_951a59.png",
+      "createdAt": "2026-01-20T19:04:54.487438"
+    },
+    {
+      "runId": "run_20260120190459_33de9e",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190459_33de9e.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190459_33de9e.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190459_33de9e.png",
+      "createdAt": "2026-01-20T19:05:01.669743"
+    },
+    {
+      "runId": "run_20260120190628_244db9",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190628_244db9.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190628_244db9.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190628_244db9.png",
+      "createdAt": "2026-01-20T19:06:29.635677"
+    },
+    {
+      "runId": "run_20260120190634_1a427d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190634_1a427d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190634_1a427d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190634_1a427d.png",
+      "createdAt": "2026-01-20T19:06:35.316359"
+    },
+    {
+      "runId": "run_20260120190713_78eecc",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190713_78eecc.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190713_78eecc.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190713_78eecc.png",
+      "createdAt": "2026-01-20T19:07:14.523056"
+    },
+    {
+      "runId": "run_20260120190715_219606",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190715_219606.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190715_219606.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190715_219606.png",
+      "createdAt": "2026-01-20T19:07:16.748806"
+    },
+    {
+      "runId": "run_20260120190755_89c1e7",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190755_89c1e7.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190755_89c1e7.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190755_89c1e7.png",
+      "createdAt": "2026-01-20T19:08:01.027713"
+    },
+    {
+      "runId": "run_20260120190852_031b7d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190852_031b7d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190852_031b7d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190852_031b7d.png",
+      "createdAt": "2026-01-20T19:08:53.818430"
+    },
+    {
+      "runId": "run_20260120190918_6d4210",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190918_6d4210.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190918_6d4210.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190918_6d4210.png",
+      "createdAt": "2026-01-20T19:09:19.803174"
+    },
+    {
+      "runId": "run_20260120190953_0d3d10",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190953_0d3d10.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260120190953_0d3d10.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260120190953_0d3d10.png",
+      "createdAt": "2026-01-20T19:10:11.082858"
+    },
+    {
+      "runId": "run_20260128161340_995029",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128161340_995029.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128161340_995029.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128161340_995029.png",
+      "createdAt": "2026-01-28T16:13:44.653888"
+    },
+    {
+      "runId": "run_20260128161353_8d6544",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128161353_8d6544.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128161353_8d6544.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128161353_8d6544.png",
+      "createdAt": "2026-01-28T16:13:55.720404"
+    },
+    {
+      "runId": "run_20260128161359_137e42",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128161359_137e42.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128161359_137e42.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128161359_137e42.png",
+      "createdAt": "2026-01-28T16:14:01.458687"
+    },
+    {
+      "runId": "run_20260128161454_ea9e02",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128161454_ea9e02.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128161454_ea9e02.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128161454_ea9e02.png",
+      "createdAt": "2026-01-28T16:15:00.748906"
+    },
+    {
+      "runId": "run_20260128162853_7bbecf",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128162853_7bbecf.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128162853_7bbecf.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128162853_7bbecf.png",
+      "createdAt": "2026-01-28T16:29:11.176167"
+    },
+    {
+      "runId": "run_20260128163001_8f2173",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163001_8f2173.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163001_8f2173.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128163001_8f2173.png",
+      "createdAt": "2026-01-28T16:30:03.235483"
+    },
+    {
+      "runId": "run_20260128163007_e7cbb2",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163007_e7cbb2.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163007_e7cbb2.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128163007_e7cbb2.png",
+      "createdAt": "2026-01-28T16:30:09.487503"
+    },
+    {
+      "runId": "run_20260128163554_e75d57",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163554_e75d57.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163554_e75d57.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128163554_e75d57.png",
+      "createdAt": "2026-01-28T16:35:56.601023"
+    },
+    {
+      "runId": "run_20260128163740_309ca4",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163740_309ca4.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163740_309ca4.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128163740_309ca4.png",
+      "createdAt": "2026-01-28T16:37:45.966080"
+    },
+    {
+      "runId": "run_20260128163759_332def",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163759_332def.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163759_332def.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128163759_332def.png",
+      "createdAt": "2026-01-28T16:38:06.676043"
+    },
+    {
+      "runId": "run_20260128163847_908907",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163847_908907.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128163847_908907.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128163847_908907.png",
+      "createdAt": "2026-01-28T16:38:48.262281"
+    },
+    {
+      "runId": "run_20260128164037_c581b7",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164037_c581b7.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164037_c581b7.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128164037_c581b7.png",
+      "createdAt": "2026-01-28T16:40:38.611174"
+    },
+    {
+      "runId": "run_20260128164042_9d572c",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164042_9d572c.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164042_9d572c.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128164042_9d572c.png",
+      "createdAt": "2026-01-28T16:40:43.008737"
+    },
+    {
+      "runId": "run_20260128164454_745478",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164454_745478.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164454_745478.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128164454_745478.png",
+      "createdAt": "2026-01-28T16:44:56.917879"
+    },
+    {
+      "runId": "run_20260128164524_b37930",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164524_b37930.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164524_b37930.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128164524_b37930.png",
+      "createdAt": "2026-01-28T16:45:27.998299"
+    },
+    {
+      "runId": "run_20260128164937_6c99b5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164937_6c99b5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128164937_6c99b5.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128164937_6c99b5.png",
+      "createdAt": "2026-01-28T16:49:41.143319"
+    },
+    {
+      "runId": "run_20260128165401_429daf",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128165401_429daf.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128165401_429daf.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128165401_429daf.png",
+      "createdAt": "2026-01-28T16:54:06.282390"
+    },
+    {
+      "runId": "run_20260128170140_80b68a",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128170140_80b68a.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128170140_80b68a.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128170140_80b68a.png",
+      "createdAt": "2026-01-28T17:01:41.424434"
+    },
+    {
+      "runId": "run_20260128170145_30e6c4",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128170145_30e6c4.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128170145_30e6c4.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128170145_30e6c4.png",
+      "createdAt": "2026-01-28T17:01:46.390917"
+    },
+    {
+      "runId": "run_20260128171358_9cce1c",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128171358_9cce1c.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128171358_9cce1c.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128171358_9cce1c.png",
+      "createdAt": "2026-01-28T17:13:59.520220"
+    },
+    {
+      "runId": "run_20260128171403_f0d75d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128171403_f0d75d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128171403_f0d75d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128171403_f0d75d.png",
+      "createdAt": "2026-01-28T17:14:04.836733"
+    },
+    {
+      "runId": "run_20260128171420_ee02a0",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128171420_ee02a0.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128171420_ee02a0.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128171420_ee02a0.png",
+      "createdAt": "2026-01-28T17:14:22.134325"
+    },
+    {
+      "runId": "run_20260128171427_da4dab",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128171427_da4dab.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128171427_da4dab.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128171427_da4dab.png",
+      "createdAt": "2026-01-28T17:14:28.906242"
+    },
+    {
+      "runId": "run_20260128203615_209b34",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128203615_209b34.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128203615_209b34.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128203615_209b34.png",
+      "createdAt": "2026-01-28T20:36:48.977140"
+    },
+    {
+      "runId": "run_20260128203954_e321e6",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128203954_e321e6.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128203954_e321e6.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-28T20:40:19.125091"
+    },
+    {
+      "runId": "run_20260128204047_8855ae",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128204047_8855ae.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128204047_8855ae.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-28T20:41:10.351417"
+    },
+    {
+      "runId": "run_20260128204213_e1bf33",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128204213_e1bf33.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128204213_e1bf33.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128204213_e1bf33.png",
+      "createdAt": "2026-01-28T20:42:48.874551"
+    },
+    {
+      "runId": "run_20260128204310_abfae0",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128204310_abfae0.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128204310_abfae0.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-28T20:43:21.410474"
+    },
+    {
+      "runId": "run_20260128204941_f71407",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128204941_f71407.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128204941_f71407.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128204941_f71407.png",
+      "createdAt": "2026-01-28T20:50:17.760504"
+    },
+    {
+      "runId": "run_20260128205403_fe30a5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128205403_fe30a5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128205403_fe30a5.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128205403_fe30a5.png",
+      "createdAt": "2026-01-28T20:54:07.715595"
+    },
+    {
+      "runId": "run_20260128210535_21aeba",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128210535_21aeba.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128210535_21aeba.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128210535_21aeba.png",
+      "createdAt": "2026-01-28T21:05:54.865306"
+    },
+    {
+      "runId": "run_20260128211710_e3f656",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128211710_e3f656.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128211710_e3f656.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128211710_e3f656.png",
+      "createdAt": "2026-01-28T21:17:11.247109"
+    },
+    {
+      "runId": "run_20260128211719_8f8f6e",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128211719_8f8f6e.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128211719_8f8f6e.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128211719_8f8f6e.png",
+      "createdAt": "2026-01-28T21:17:20.537169"
+    },
+    {
+      "runId": "run_20260128211728_9cc7d5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128211728_9cc7d5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128211728_9cc7d5.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128211728_9cc7d5.png",
+      "createdAt": "2026-01-28T21:17:28.903451"
+    },
+    {
+      "runId": "run_20260128212502_119eb6",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128212502_119eb6.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128212502_119eb6.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-28T21:25:18.177571"
+    },
+    {
+      "runId": "run_20260128212613_fad334",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128212613_fad334.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128212613_fad334.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128212613_fad334.png",
+      "createdAt": "2026-01-28T21:26:17.079610"
+    },
+    {
+      "runId": "run_20260128212621_995495",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128212621_995495.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128212621_995495.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128212621_995495.png",
+      "createdAt": "2026-01-28T21:26:24.843313"
+    },
+    {
+      "runId": "run_20260128212738_5cd780",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128212738_5cd780.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128212738_5cd780.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128212738_5cd780.png",
+      "createdAt": "2026-01-28T21:31:50.653915"
+    },
+    {
+      "runId": "run_20260128213259_f9cf16",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128213259_f9cf16.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128213259_f9cf16.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128213259_f9cf16.png",
+      "createdAt": "2026-01-28T21:33:17.751101"
+    },
+    {
+      "runId": "run_20260128213940_2cd4d9",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128213940_2cd4d9.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128213940_2cd4d9.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128213940_2cd4d9.png",
+      "createdAt": "2026-01-28T21:39:43.229648"
+    },
+    {
+      "runId": "run_20260128215031_51784d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128215031_51784d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128215031_51784d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128215031_51784d.png",
+      "createdAt": "2026-01-28T21:51:05.257269"
+    },
+    {
+      "runId": "run_20260128215731_5930cc",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128215731_5930cc.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128215731_5930cc.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128215731_5930cc.png",
+      "createdAt": "2026-01-28T21:58:05.740369"
+    },
+    {
+      "runId": "run_20260128222638_55d8fe",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128222638_55d8fe.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128222638_55d8fe.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128222638_55d8fe.png",
+      "createdAt": "2026-01-28T22:26:52.198796"
+    },
+    {
+      "runId": "run_20260128222750_014b89",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128222750_014b89.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260128222750_014b89.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260128222750_014b89.png",
+      "createdAt": "2026-01-28T22:28:05.844685"
+    },
+    {
+      "runId": "run_20260131091006_307bc0",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131091006_307bc0.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131091006_307bc0.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131091006_307bc0.png",
+      "createdAt": "2026-01-31T09:10:08.858936"
+    },
+    {
+      "runId": "run_20260131091031_14a1ea",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131091031_14a1ea.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131091031_14a1ea.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131091031_14a1ea.png",
+      "createdAt": "2026-01-31T09:10:34.574000"
+    },
+    {
+      "runId": "run_20260131095627_f51fe1",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131095627_f51fe1.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131095627_f51fe1.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131095627_f51fe1.png",
+      "createdAt": "2026-01-31T09:56:40.947455"
+    },
+    {
+      "runId": "run_20260131100817_312c65",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131100817_312c65.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131100817_312c65.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131100817_312c65.png",
+      "createdAt": "2026-01-31T10:08:46.602252"
+    },
+    {
+      "runId": "run_20260131101604_d3ff4f",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131101604_d3ff4f.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131101604_d3ff4f.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131101604_d3ff4f.png",
+      "createdAt": "2026-01-31T10:16:30.055981"
+    },
+    {
+      "runId": "run_20260131102015_456e63",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131102015_456e63.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131102015_456e63.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131102015_456e63.png",
+      "createdAt": "2026-01-31T10:20:41.212568"
+    },
+    {
+      "runId": "run_20260131102954_fd882d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131102954_fd882d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131102954_fd882d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131102954_fd882d.png",
+      "createdAt": "2026-01-31T10:30:21.122400"
+    },
+    {
+      "runId": "run_20260131103647_538b63",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131103647_538b63.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131103647_538b63.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131103647_538b63.png",
+      "createdAt": "2026-01-31T10:36:58.182471"
+    },
+    {
+      "runId": "run_20260131104647_5780ad",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131104647_5780ad.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131104647_5780ad.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131104647_5780ad.png",
+      "createdAt": "2026-01-31T10:46:48.622175"
+    },
+    {
+      "runId": "run_20260131104654_6c30ee",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131104654_6c30ee.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131104654_6c30ee.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131104654_6c30ee.png",
+      "createdAt": "2026-01-31T10:46:54.903178"
+    },
+    {
+      "runId": "run_20260131104836_1d5005",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131104836_1d5005.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131104836_1d5005.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131104836_1d5005.png",
+      "createdAt": "2026-01-31T10:48:41.093470"
+    },
+    {
+      "runId": "run_20260131110200_7b2bf8",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131110200_7b2bf8.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131110200_7b2bf8.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131110200_7b2bf8.png",
+      "createdAt": "2026-01-31T11:02:04.257463"
+    },
+    {
+      "runId": "run_20260131110633_c5951e",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131110633_c5951e.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131110633_c5951e.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131110633_c5951e.png",
+      "createdAt": "2026-01-31T11:06:38.372194"
+    },
+    {
+      "runId": "run_20260131110724_6d2fd5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131110724_6d2fd5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131110724_6d2fd5.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131110724_6d2fd5.png",
+      "createdAt": "2026-01-31T11:07:27.975182"
+    },
+    {
+      "runId": "run_20260131112008_315d65",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112008_315d65.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112008_315d65.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131112008_315d65.png",
+      "createdAt": "2026-01-31T11:20:15.656887"
+    },
+    {
+      "runId": "run_20260131112038_3de38f",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112038_3de38f.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112038_3de38f.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131112038_3de38f.png",
+      "createdAt": "2026-01-31T11:20:41.707915"
+    },
+    {
+      "runId": "run_20260131112107_36429d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112107_36429d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112107_36429d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131112107_36429d.png",
+      "createdAt": "2026-01-31T11:21:13.687475"
+    },
+    {
+      "runId": "run_20260131112150_771941",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112150_771941.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112150_771941.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131112150_771941.png",
+      "createdAt": "2026-01-31T11:21:53.841593"
+    },
+    {
+      "runId": "run_20260131112316_9a1434",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112316_9a1434.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112316_9a1434.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131112316_9a1434.png",
+      "createdAt": "2026-01-31T11:23:33.015191"
+    },
+    {
+      "runId": "run_20260131112415_b8500d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112415_b8500d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112415_b8500d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131112415_b8500d.png",
+      "createdAt": "2026-01-31T11:24:31.981928"
+    },
+    {
+      "runId": "run_20260131112508_088afc",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112508_088afc.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112508_088afc.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131112508_088afc.png",
+      "createdAt": "2026-01-31T11:25:13.276131"
+    },
+    {
+      "runId": "run_20260131112650_844d71",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112650_844d71.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131112650_844d71.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131112650_844d71.png",
+      "createdAt": "2026-01-31T11:27:07.663450"
+    },
+    {
+      "runId": "run_20260131113310_ddc4c4",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113310_ddc4c4.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113310_ddc4c4.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-31T11:33:26.845321"
+    },
+    {
+      "runId": "run_20260131113451_2e8c97",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113451_2e8c97.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113451_2e8c97.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131113451_2e8c97.png",
+      "createdAt": "2026-01-31T11:34:55.640574"
+    },
+    {
+      "runId": "run_20260131113525_319785",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113525_319785.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113525_319785.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131113525_319785.png",
+      "createdAt": "2026-01-31T11:35:45.680688"
+    },
+    {
+      "runId": "run_20260131113548_25303d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113548_25303d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113548_25303d.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131113548_25303d.png",
+      "createdAt": "2026-01-31T11:36:06.299238"
+    },
+    {
+      "runId": "run_20260131113607_8cb015",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113607_8cb015.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113607_8cb015.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-31T11:36:22.860157"
+    },
+    {
+      "runId": "run_20260131113726_6fd06f",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113726_6fd06f.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113726_6fd06f.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131113726_6fd06f.png",
+      "createdAt": "2026-01-31T11:37:27.881297"
+    },
+    {
+      "runId": "run_20260131113917_2be452",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113917_2be452.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131113917_2be452.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131113917_2be452.png",
+      "createdAt": "2026-01-31T11:39:23.391677"
+    },
+    {
+      "runId": "run_20260131120109_073e97",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131120109_073e97.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131120109_073e97.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131120109_073e97.png",
+      "createdAt": "2026-01-31T12:01:13.981075"
+    },
+    {
+      "runId": "run_20260131122627_6e0a14",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131122627_6e0a14.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131122627_6e0a14.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131122627_6e0a14.png",
+      "createdAt": "2026-01-31T12:26:59.085336"
+    },
+    {
+      "runId": "run_20260131124454_82b86b",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131124454_82b86b.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131124454_82b86b.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131124454_82b86b.png",
+      "createdAt": "2026-01-31T12:45:06.659759"
+    },
+    {
+      "runId": "run_20260131152637_4327b2",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131152637_4327b2.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131152637_4327b2.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131152637_4327b2.png",
+      "createdAt": "2026-01-31T15:39:40.682354"
+    },
+    {
+      "runId": "run_20260131154104_91b7b3",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131154104_91b7b3.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131154104_91b7b3.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131154104_91b7b3.png",
+      "createdAt": "2026-01-31T15:41:15.701032"
+    },
+    {
+      "runId": "run_20260131154559_92cf61",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131154559_92cf61.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131154559_92cf61.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131154559_92cf61.png",
+      "createdAt": "2026-01-31T15:46:00.637516"
+    },
+    {
+      "runId": "run_20260131154603_7b1bdb",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131154603_7b1bdb.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131154603_7b1bdb.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131154603_7b1bdb.png",
+      "createdAt": "2026-01-31T15:46:04.614182"
+    },
+    {
+      "runId": "run_20260131154900_e945c0",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131154900_e945c0.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131154900_e945c0.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131154900_e945c0.png",
+      "createdAt": "2026-01-31T15:49:20.117899"
+    },
+    {
+      "runId": "run_20260131155404_94a1c7",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131155404_94a1c7.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131155404_94a1c7.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131155404_94a1c7.png",
+      "createdAt": "2026-01-31T15:54:18.914093"
+    },
+    {
+      "runId": "run_20260131162144_8f3343",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131162144_8f3343.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131162144_8f3343.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131162144_8f3343.png",
+      "createdAt": "2026-01-31T16:22:01.525284"
+    },
+    {
+      "runId": "run_20260131162719_632833",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131162719_632833.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131162719_632833.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131162719_632833.png",
+      "createdAt": "2026-01-31T16:27:35.494444"
+    },
+    {
+      "runId": "run_20260131163824_6822ea",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131163824_6822ea.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131163824_6822ea.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131163824_6822ea.png",
+      "createdAt": "2026-01-31T16:40:46.200905"
+    },
+    {
+      "runId": "run_20260131164137_ecba45",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131164137_ecba45.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131164137_ecba45.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131164137_ecba45.png",
+      "createdAt": "2026-01-31T16:41:43.444919"
+    },
+    {
+      "runId": "run_20260131164435_2123e0",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131164435_2123e0.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131164435_2123e0.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131164435_2123e0.png",
+      "createdAt": "2026-01-31T16:47:54.594893"
+    },
+    {
+      "runId": "run_20260131165223_d94bc5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131165223_d94bc5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131165223_d94bc5.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131165223_d94bc5.png",
+      "createdAt": "2026-01-31T16:52:33.824741"
+    },
+    {
+      "runId": "run_20260131165717_3b92d5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131165717_3b92d5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131165717_3b92d5.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131165717_3b92d5.png",
+      "createdAt": "2026-01-31T16:57:19.696577"
+    },
+    {
+      "runId": "run_20260131170314_729678",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131170314_729678.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131170314_729678.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131170314_729678.png",
+      "createdAt": "2026-01-31T17:03:32.666446"
+    },
+    {
+      "runId": "run_20260131170634_e08f52",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131170634_e08f52.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131170634_e08f52.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131170634_e08f52.png",
+      "createdAt": "2026-01-31T17:06:52.304584"
+    },
+    {
+      "runId": "run_20260131170947_69f60c",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131170947_69f60c.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131170947_69f60c.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-31T17:09:59.680441"
+    },
+    {
+      "runId": "run_20260131171339_44bbe5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131171339_44bbe5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131171339_44bbe5.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131171339_44bbe5.png",
+      "createdAt": "2026-01-31T17:13:40.933780"
+    },
+    {
+      "runId": "run_20260131171800_363068",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131171800_363068.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131171800_363068.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-31T17:18:09.442694"
+    },
+    {
+      "runId": "run_20260131172421_f58a7b",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131172421_f58a7b.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131172421_f58a7b.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131172421_f58a7b.png",
+      "createdAt": "2026-01-31T17:24:40.185972"
+    },
+    {
+      "runId": "run_20260131172611_fbaa99",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131172611_fbaa99.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131172611_fbaa99.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131172611_fbaa99.png",
+      "createdAt": "2026-01-31T17:26:17.511485"
+    },
+    {
+      "runId": "run_20260131172758_4cbbc0",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131172758_4cbbc0.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131172758_4cbbc0.pdf",
+      "screenshot": null,
+      "createdAt": "2026-01-31T17:28:16.361655"
+    },
+    {
+      "runId": "run_20260131185557_a13f07",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131185557_a13f07.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260131185557_a13f07.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260131185557_a13f07.png",
+      "createdAt": "2026-01-31T18:56:01.740184"
+    },
+    {
+      "runId": "run_20260217145453_66af03",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260217145453_66af03.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260217145453_66af03.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260217145453_66af03.png",
+      "createdAt": "2026-02-17T14:55:06.221424"
+    },
+    {
+      "runId": "run_20260217152810_8851d3",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260217152810_8851d3.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260217152810_8851d3.pdf",
+      "screenshot": null,
+      "createdAt": "2026-02-17T15:28:25.679085"
+    },
+    {
+      "runId": "run_20260326113157_1f3d02",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260326113157_1f3d02.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260326113157_1f3d02.pdf",
+      "screenshot": null,
+      "createdAt": "2026-03-26T11:31:59.643655"
+    },
+    {
+      "runId": "run_20260326114125_503384",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260326114125_503384.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260326114125_503384.pdf",
+      "screenshot": null,
+      "createdAt": "2026-03-26T11:41:25.584861"
+    },
+    {
+      "runId": "run_20260327130413_7c0b8d",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260327130413_7c0b8d.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260327130413_7c0b8d.pdf",
+      "screenshot": null,
+      "createdAt": "2026-03-27T13:04:14.314313"
+    },
+    {
+      "runId": "run_20260411072831_4564ea",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260411072831_4564ea.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260411072831_4564ea.pdf",
+      "screenshot": null,
+      "createdAt": "2026-04-11T07:28:32.104175"
+    },
+    {
+      "runId": "run_20260411125533_d51bed",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260411125533_d51bed.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260411125533_d51bed.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260411125533_d51bed.png",
+      "createdAt": "2026-04-11T12:55:37.512774"
+    },
+    {
+      "runId": "run_20260411135511_53a6c5",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260411135511_53a6c5.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260411135511_53a6c5.pdf",
+      "screenshot": null,
+      "createdAt": "2026-04-11T13:55:26.289553"
+    },
+    {
+      "runId": "run_20260411135552_8cc083",
+      "json": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260411135552_8cc083.json",
+      "pdf": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/reports/run_20260411135552_8cc083.pdf",
+      "screenshot": "/Users/youvalkumar/Desktop/untitled folder/youval-autoqa/backend/screenshots/run_20260411135552_8cc083.png",
+      "createdAt": "2026-04-11T13:56:13.442636"
+    }
+  ]
+}
