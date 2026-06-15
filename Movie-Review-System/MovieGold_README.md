@@ -164,8 +164,7 @@ Database Layer
 | Spring Data MongoDB | Data Access | Repository Pattern |
 | React | Frontend UI | Component-Based Architecture |
 | Axios | API Calls | Easy HTTP Communication |
-| Maven | Dependency Management | Build Automation |
-| Lombok | Boilerplate Reduction | Cleaner Code |
+
 
 ---
 
